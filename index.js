@@ -5,7 +5,7 @@ const app = express()
 const PORT= 3000
 
 app.get('/' , (req , res) => {
-    res.send('Hello World from the user')
+    res.send('Hello World from  umashankar')
 })
 console.log("Server is running  on Port http://localhost:" + PORT)
 
